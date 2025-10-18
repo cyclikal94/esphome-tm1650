@@ -3,7 +3,6 @@
 
 #include "esphome/core/log.h"
 #include "esphome/core/hal.h"
-#include "esphome/core/progm.h"
 
 namespace esphome {
 namespace tm1650 {
