@@ -1,9 +1,8 @@
+#include <cstdint>
+
 #ifndef PROGMEM
 #define PROGMEM
 #endif
-
-#include "esphome/core/progm.h"  // for ESPHome PROGMEM macro
-#include <cstdint>
 
 #pragma once
 
